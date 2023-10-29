@@ -5,7 +5,7 @@ import About from "./About";
 import ProjectList from "./ProjectList";
 import user from "../data/user";
 
-function App() {
+function App(props) {
   return (
     <div>
       <NavBar />
